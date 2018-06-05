@@ -1,0 +1,28 @@
+Input:
+
+Enter the number of vertices and edges.
+8
+8
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+Examples of how to enter the data:
+Example 1 (vertex 5 has the edges 4 and 3): 5 4 3
+Example 2 (vertex 6 has no edges): 6
+1 3 5
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+2 3
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+3 6 7
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+4 6 8
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+5 7
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+6 8
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+7
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+8
+
+Output: 
+
+1 2 4 3 5 6 7 8

@@ -1,0 +1,46 @@
+Enter the number of vertices and edges.
+18
+12
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+Examples of how to enter the data:
+Example 1 (vertex 5 has the edges 4 and 3): 5 4 3
+Example 2 (vertex 6 has no edges): 6
+1
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+2 5 6
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+3 6
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+4 7
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+5
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+6
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+7
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+8 12
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+9 10 12
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+10
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+11 14
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+12
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+13
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+14
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+15
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+16 17 18
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+17 18
+Enter the vertex and their respective edges, if the vertex has (Data must be typed with spaces).
+18
+
+Output:
+
+1 2 3 4 8 9 11 13 15 16 5 6 7 10 12 14 17 18
